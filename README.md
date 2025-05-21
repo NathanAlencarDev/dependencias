@@ -64,7 +64,7 @@
 * Necessidade de novas funcionalidades específicas.
 
 > 💬 “Uma atualização brusca pode quebrar um código inteiro.”
-> — *Felipão da DIO*
+> — *Felipão DIO*
 
 ---
 

@@ -82,5 +82,3 @@ console.log(chalk.blue.bgBlackBright.bold("Outra funcionalidade da chalk."));
 
 ---
 
-🚀 Mantenha a estrutura enxuta, segura e escalável.
-

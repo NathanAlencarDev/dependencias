@@ -1,4 +1,3 @@
----
 
 ````markdown
 # 📦 Gerenciamento de Dependências com NPM
